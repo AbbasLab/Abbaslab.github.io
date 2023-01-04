@@ -1,6 +1,0 @@
-#home_picture{
-    background: url(../images/myimages/main_cover.jpg) center top no-repeat;
-    -webkit-background-size: cover;
-    background-attachment: fixed;
-    background-position-y: center;
-}
